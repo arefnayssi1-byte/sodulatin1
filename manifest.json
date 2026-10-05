@@ -1,0 +1,25 @@
+{
+  "name": "SoduLatin V24 Latin Sudoku 100 levels",
+  "short_name": "SoduLatin",
+  "description": "SoduLatin V24 Latin Sudoku 100 levels - Offline Latin Sudoku puzzle with A B 1 2",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#FF6600",
+  "theme_color": "#FF6600",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
