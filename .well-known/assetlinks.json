@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.sodulatin.game",
+    "sha256_cert_fingerprints": ["65:A9:BC:40:9B:9F:82:24:C7:CA:7B:12:DE:49:00:69:B1:EE:4F:68:39:D6:95:25:77:8F:24:4B:68:E6:5D:04"]
+  }
+}]
